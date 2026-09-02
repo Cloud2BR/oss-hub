@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 
 EXPECTED_BADGE_LINE = "[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)"
-EXPECTED_PROFILE_LINE = "[Cloud2BR OSS - Learning Hub](https://github.com/Cloud2BR-MSFTLearningHub)"
+EXPECTED_PROFILE_LINE = "[Cloud2BR - Cloud to be Ready](https://github.com/Cloud2BR)"
 EXPECTED_SEPARATOR_LINE = "----------"
 LAST_UPDATED_PATTERN = re.compile(r"^Last updated: (\d{4}-\d{2}-\d{2})$")
 MAIN_TITLE_PATTERN = re.compile(r"^\s{0,3}#\s+\S")

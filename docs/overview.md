@@ -1,39 +1,34 @@
-# Overview
+# About Cloud2BR
 
 Atlanta, USA
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[Cloud2BR OSS - Learning Hub](https://github.com/Cloud2BR-MSFTLearningHub)
+[Cloud2BR - Cloud to be Ready](https://github.com/Cloud2BR)
 
-Last updated: 2026-07-27
+Last updated: 2026-09-02
 
 ----------
 
-<details markdown>
-<summary>List of references</summary>
+Cloud2BR (Cloud to be Ready) is a consulting and enablement hub dedicated to helping
+organizations explore, validate, and adopt Microsoft cloud solutions. Its mission is to
+make the cloud ready, accessible, and actionable — enabling teams to move from concept
+to reality.
 
-- Add authoritative references here as links.
+## The Cloud2BR ecosystem
 
-</details>
+| Organization | Focus | Where to go |
+| --- | --- | --- |
+| [Cloud2BR — Cloud to be Ready](https://github.com/Cloud2BR) | Consulting and enablement: proof-of-concepts, sandboxes, training, and technical events. | GitHub organization |
+| [Cloud2BR TEC Hub](https://cloud2br-tec.github.io/tec-hub/) | Technology Education Center: structured learning paths for cloud, data, AI, and platform engineering. | Learning site |
+| [Cloud2BR Microsoft Cloud Sandbox — Learning Hub](https://cloud2br-msftlearninghub.github.io/org-catalog/) | Open-source sandbox: 50+ demos and guides for Azure, AI, data, and security. | Catalog site |
 
-Replace this starter page with your project's overview. Use the standard sections
-below as a starting structure, and keep the header block at the top so the page
-passes the organization's Markdown header validation.
+## How the hub works
 
-## Why it matters
+1. Start on the [Cloud2BR OSS Hub](https://cloud2br.github.io/oss-hub/) home page.
+2. Choose the organization that matches your goal — enablement, learning, or hands-on labs.
+3. Follow each site's guides and catalogs to learn, experiment, and build.
 
-Explain the problem this project addresses and who benefits.
+## Good to know
 
-## How it works
-
-Describe the main components and how they fit together.
-
-## Get started
-
-1. Define the outcome, owner, and scope.
-2. Pilot in a limited scope and validate the result.
-3. Document the change, approval, and rollback before expanding.
-
-## Business example
-
-> Replace this quote with a short, concrete scenario that shows the project in use.
+> Content across Cloud2BR organizations is intended for learning, demonstrations, and
+> proof-of-concepts. Review and validate before using it in production.

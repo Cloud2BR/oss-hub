@@ -1,15 +1,15 @@
-# org-repo-template
+# oss-hub
 
 Atlanta, USA
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[Cloud2BR OSS - Learning Hub](https://github.com/Cloud2BR-MSFTLearningHub)
+[Cloud2BR - Cloud to be Ready](https://github.com/Cloud2BR)
 
-Last updated: 2026-04-07
+Last updated: 2026-09-02
 
 ----------
 
-> Organizational repo ([Cloud2BR Open Source Microsoft Cloud Sandbox - Learning Hub](https://github.com/Cloud2BR-MSFTLearningHub)) template with automated pipelines (update date, update counter, notebook/markdown review, formatting checks, etc). Includes a general README structure with preferred header and counter badge. Ensures consistency, automation, and best practices across all org projects.
+> Cloud2BR is the open source hub for all organizations and engagements. This repository publishes the [Cloud2BR OSS Hub](https://cloud2br.github.io/oss-hub/), a single entry point that links the Cloud2BR organizations together.
 
 ## Workflow Summary
 

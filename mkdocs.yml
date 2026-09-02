@@ -1,16 +1,15 @@
-# Update site_name, site_url, repo_url, and repo_name for each new repository.
-site_name: Documentation Hub
-site_description: Overview and setup documentation for this project.
-site_url: https://cloud2br-msftlearninghub.github.io/org-repo-template/
-repo_url: https://github.com/Cloud2BR-MSFTLearningHub/org-repo-template
-repo_name: Cloud2BR-MSFTLearningHub/org-repo-template
+site_name: Cloud2BR OSS Hub
+site_description: The open source hub for all Cloud2BR organizations and engagements.
+site_url: https://cloud2br.github.io/oss-hub/
+repo_url: https://github.com/Cloud2BR/oss-hub
+repo_name: Cloud2BR/oss-hub
 docs_dir: docs
 site_dir: site
-copyright: Copyright &copy; 2026 <a href="https://github.com/Cloud2BR-MSFTLearningHub" target="_blank" rel="noopener">Cloud2BR OSS - Learning Hub</a>
+copyright: Copyright &copy; 2026 <a href="https://github.com/Cloud2BR" target="_blank" rel="noopener">Cloud2BR - Cloud to be Ready</a>
 theme:
   name: material
-  logo: https://avatars.githubusercontent.com/u/195347873?v=4
-  favicon: https://avatars.githubusercontent.com/u/195347873?v=4
+  logo: https://avatars.githubusercontent.com/u/265654976?v=4
+  favicon: https://avatars.githubusercontent.com/u/265654976?v=4
   features:
     - navigation.sections
     - navigation.expand
@@ -41,8 +40,14 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
+      link: https://github.com/Cloud2BR
+      name: Cloud2BR - Cloud to be Ready
+    - icon: fontawesome/brands/github
+      link: https://github.com/Cloud2BR-TEC
+      name: Cloud2BR TEC Hub
+    - icon: fontawesome/brands/github
       link: https://github.com/Cloud2BR-MSFTLearningHub
-      name: Cloud2BR OSS - Learning Hub
+      name: Cloud2BR Open Source Microsoft Cloud Sandbox - Learning Hub
 nav:
   - Home: index.md
-  - Overview: overview.md
+  - About: overview.md
