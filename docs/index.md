@@ -38,8 +38,8 @@ Last updated: 2026-09-02
     <span class="org-card__title">Cloud2BR TEC Hub</span>
     <span class="org-card__desc">The Technology Education Center with structured learning paths and hands-on resources for cloud, data, AI, and platform engineering, from foundations to production-ready skills.</span>
     <div class="org-card__actions">
-      <a class="org-btn org-btn--primary" href="https://cloud2br-tec.github.io/tec-hub/">Open TEC Hub</a>
-      <a class="org-btn" href="https://github.com/Cloud2BR-TEC">Visit organization</a>
+      <a class="org-btn org-btn--primary" href="https://github.com/Cloud2BR-TEC">Visit organization</a>
+      <a class="org-btn" href="https://cloud2br-tec.github.io/tec-hub/">Open TEC Hub</a>
     </div>
   </div>
   <div class="org-card org-card--sandbox">
@@ -50,8 +50,8 @@ Last updated: 2026-09-02
     <span class="org-card__title">Microsoft Cloud Sandbox: Learning Hub</span>
     <span class="org-card__desc">An open-source sandbox for experimentation and playful learning across 50+ demos and guides spanning Azure, AI, data, and security on the Microsoft cloud.</span>
     <div class="org-card__actions">
-      <a class="org-btn org-btn--primary" href="https://cloud2br-msftlearninghub.github.io/org-catalog/">Browse the catalog</a>
-      <a class="org-btn" href="https://github.com/Cloud2BR-MSFTLearningHub">Visit organization</a>
+      <a class="org-btn org-btn--primary" href="https://github.com/Cloud2BR-MSFTLearningHub">Visit organization</a>
+      <a class="org-btn" href="https://cloud2br-msftlearninghub.github.io/org-catalog/">Browse the catalog</a>
     </div>
   </div>
 </div>
