@@ -48,9 +48,9 @@ making the catalog look empty.
 | Priority | Series | Purpose | Primary source material |
 | --- | --- | --- | --- |
 | 1 | **Cloud2BR Explained** | Searchable fundamentals: cloud, generative AI, LLMs, RAG, embeddings, agents, MCP, DevOps, and architecture. | TEC foundations and Microsoft Learning Hub explainers |
-| 2 | **RAG Academy** | A complete fundamentals-to-production RAG curriculum. | `ai-academy-101-rag`, `ai-academy-102-rag`, `ai-academy-103-rag`, `RAG-ChatBot-Implementation` |
-| 3 | **MCP on Azure** | A flagship technical series for Model Context Protocol, tools, agents, security, and Azure deployment. | `Azure-MCP-blueprint` |
-| 4 | **Microsoft Fabric** | Fundamentals through enterprise architecture, governance, AI, and delivery. | `Fabric-EnterpriseFramework`, `MS-Fabric-Essentials-Workshop`, `Fabric-AI-Retail-Demo` |
+| 2 | **RAG Academy** | A complete fundamentals-to-production RAG curriculum. | [RAG 101](https://github.com/Cloud2BR-TEC/ai-academy-101-rag), [RAG 102](https://github.com/Cloud2BR-TEC/ai-academy-102-rag), [RAG 103](https://github.com/Cloud2BR-TEC/ai-academy-103-rag), [RAG ChatBot Implementation](https://github.com/Cloud2BR-MSFTLearningHub/RAG-ChatBot-Implementation) |
+| 3 | **MCP on Azure** | A flagship technical series for Model Context Protocol, tools, agents, security, and Azure deployment. | [Azure MCP Blueprint](https://github.com/Cloud2BR-MSFTLearningHub/Azure-MCP-blueprint) |
+| 4 | **Microsoft Fabric** | Fundamentals through enterprise architecture, governance, AI, and delivery. | [Fabric Enterprise Framework](https://github.com/Cloud2BR-MSFTLearningHub/Fabric-EnterpriseFramework), [Fabric Essentials Workshop](https://github.com/Cloud2BR-MSFTLearningHub/MS-Fabric-Essentials-Workshop), [Fabric AI Retail Demo](https://github.com/Cloud2BR-MSFTLearningHub/Fabric-AI-Retail-Demo) |
 | 5 | **Cloud2BR MVPs** | End-to-end demonstrations that show what the learning produces. | RAG, MCP, Fabric Retail, AI Shopping, Document Intelligence, and DevSecOps repositories |
 
 ## Planned curriculum
@@ -62,20 +62,20 @@ Use TEC Hub as the structured Academy pathway: **Foundations → Practice → Ap
 
 | Academy | Progression | Source repositories |
 | --- | --- | --- |
-| **Machine Learning** | ML 101 foundations, ML 102 model building and deployment, ML 103 lifecycle and production operations. | `ai-academy-101-ml`, `ai-academy-102-ml`, `ai-academy-103-ml` |
-| **RAG** | LLM limits, embeddings, vector search, chunking, E2E chatbot implementation, evaluation, security, and scale. | `ai-academy-101-rag`, `ai-academy-102-rag`, `ai-academy-103-rag` |
-| **AI Operations** | MLOps, GenAIOps, evaluation, deployment, monitoring, governance, security, and maturity. | `ai-academy-101-ops`, `GenAIOpsMaturityLevels`, `Azure-MLOps-Overview` |
-| **Document Intelligence** | OCR, text and table extraction, forms, invoices, visual cues, and automation. | `ai-academy-101-docs-etl`, Document Intelligence and PDF implementation repositories |
+| **Machine Learning** | ML 101 foundations, ML 102 model building and deployment, ML 103 lifecycle and production operations. | [ML 101](https://github.com/Cloud2BR-TEC/ai-academy-101-ml), [ML 102](https://github.com/Cloud2BR-TEC/ai-academy-102-ml), [ML 103](https://github.com/Cloud2BR-TEC/ai-academy-103-ml) |
+| **RAG** | LLM limits, embeddings, vector search, chunking, E2E chatbot implementation, evaluation, security, and scale. | [RAG 101](https://github.com/Cloud2BR-TEC/ai-academy-101-rag), [RAG 102](https://github.com/Cloud2BR-TEC/ai-academy-102-rag), [RAG 103](https://github.com/Cloud2BR-TEC/ai-academy-103-rag), [RAG ChatBot Implementation](https://github.com/Cloud2BR-MSFTLearningHub/RAG-ChatBot-Implementation) |
+| **AI Operations** | MLOps, GenAIOps, evaluation, deployment, monitoring, governance, security, and maturity. | [GenAIOps and MLOps Academy](https://github.com/Cloud2BR-TEC/ai-academy-101-ops), [GenAIOps Maturity Levels](https://github.com/Cloud2BR-MSFTLearningHub/GenAIOpsMaturityLevels), [Azure MLOps Overview](https://github.com/Cloud2BR-MSFTLearningHub/Azure-MLOps-Overview) |
+| **Document Intelligence** | OCR, text and table extraction, forms, invoices, visual cues, and automation. | [Document ETL Academy](https://github.com/Cloud2BR-TEC/ai-academy-101-docs-etl), [PDF Layout Processing](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Layouts-Processing-Fapp-DocIntelligence), [Invoice Processing](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence), [Visual Cue Processing](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-MultiLayout-VisualCue-AzureAI-Document-Processing) |
 
 ### Microsoft Cloud Deep Dives
 
 | Series | Focus | Source repositories |
 | --- | --- | --- |
-| **MCP on Azure** | MCP clients and servers, tools, authentication, Azure Functions, Container Apps, Foundry, Copilot Studio, AI Search, Cosmos DB, agents, A2A, and industry patterns. | `Azure-MCP-blueprint` |
-| **AI Agents and Agentic AI** | Agents, tool calling, memory, orchestration, routing, evaluation, security, MCP, Fabric, and Copilot Studio. | `AI-Agent-Infra-Blueprint`, `Agentic-DevOps-AI-Shopping`, `Fabric-MCP-Agent2Agent` |
-| **Microsoft Fabric** | OneLake, lakehouse, medallion architecture, data engineering, Git integration, CI/CD, monitoring, observability, cost, and enterprise architecture. | `Fabric-EnterpriseFramework`, `MS-Fabric-Essentials-Workshop`, `Fabric-AI-Retail-Demo`, `Fabric-SKU-EstimationTool` |
-| **Security** | Zero Trust, Entra, RBAC, Intune, Purview, Sentinel, Defender, Security Copilot, and security automation. | `Security-Campaign`, `Security-Copilot-Overview`, `Entra-Overview`, `Sentinel-Setup-Overview`, `Defender-Setup-Overview` |
-| **Data and Architecture** | Azure databases, performance and cost optimization, Synapse, Purview, capacity, resilience, landing zones, and architecture diagrams. | Database, Purview, capacity, and architecture-flow repositories |
+| **MCP on Azure** | MCP clients and servers, tools, authentication, Azure Functions, Container Apps, Foundry, Copilot Studio, AI Search, Cosmos DB, agents, A2A, and industry patterns. | [Azure MCP Blueprint](https://github.com/Cloud2BR-MSFTLearningHub/Azure-MCP-blueprint) |
+| **AI Agents and Agentic AI** | Agents, tool calling, memory, orchestration, routing, evaluation, security, MCP, Fabric, and Copilot Studio. | [AI Agent Infrastructure Blueprint](https://github.com/Cloud2BR-MSFTLearningHub/AI-Agent-Infra-Blueprint), [Agentic DevOps AI Shopping](https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping), [Fabric MCP Agent2Agent](https://github.com/Cloud2BR-MSFTLearningHub/Fabric-MCP-Agent2Agent) |
+| **Microsoft Fabric** | OneLake, lakehouse, medallion architecture, data engineering, Git integration, CI/CD, monitoring, observability, cost, and enterprise architecture. | [Fabric Enterprise Framework](https://github.com/Cloud2BR-MSFTLearningHub/Fabric-EnterpriseFramework), [Fabric Essentials Workshop](https://github.com/Cloud2BR-MSFTLearningHub/MS-Fabric-Essentials-Workshop), [Fabric AI Retail Demo](https://github.com/Cloud2BR-MSFTLearningHub/Fabric-AI-Retail-Demo), [Fabric SKU Estimation Tool](https://github.com/Cloud2BR-MSFTLearningHub/Fabric-SKU-EstimationTool) |
+| **Security** | Zero Trust, Entra, RBAC, Intune, Purview, Sentinel, Defender, Security Copilot, and security automation. | [Security Campaign](https://github.com/Cloud2BR-MSFTLearningHub/Security-Campaign), [Security Copilot Overview](https://github.com/Cloud2BR-MSFTLearningHub/Security-Copilot-Overview), [Entra Overview](https://github.com/Cloud2BR-MSFTLearningHub/Entra-Overview), [Sentinel Setup Overview](https://github.com/Cloud2BR-MSFTLearningHub/Sentinel-Setup-Overview), [Defender Setup Overview](https://github.com/Cloud2BR-MSFTLearningHub/Defender-Setup-Overview) |
+| **Data and Architecture** | Azure databases, performance and cost optimization, Synapse, Purview, capacity, resilience, landing zones, and architecture diagrams. | [Azure Databases Purview Advisor](https://github.com/Cloud2BR-MSFTLearningHub/Azure-Databases-Purview-Advisor), [Azure Capacity Overview](https://github.com/Cloud2BR-MSFTLearningHub/Azure-Capacity-Overview), [Azure Architecture Flow Designer](https://github.com/Cloud2BR-MSFTLearningHub/arch-flows-designer) |
 
 ### Cloud2BR Labs and MVPs
 
@@ -85,14 +85,14 @@ technology into a demonstrated outcome.
 
 | MVP | Outcome | Source repositories |
 | --- | --- | --- |
-| **RAG Assistant** | Build a document-grounded conversational assistant. | RAG Academy and `RAG-ChatBot-Implementation` |
-| **MCP Enterprise Assistant** | Build a secure, Azure-hosted MCP-enabled assistant. | `Azure-MCP-blueprint` |
-| **AI Shopping Assistant** | Demonstrate multimodal and multi-agent shopping workflows. | `Agentic-DevOps-AI-Shopping` |
-| **Fabric AI Retail** | Deliver an AI-enabled retail analytics experience. | `Fabric-AI-Retail-Demo` |
-| **Intelligent Invoice Processing** | Extract, validate, and route invoice information. | Document Intelligence invoice repositories |
-| **Secure Software Delivery** | Demonstrate Terraform, Key Vault, OIDC, GitHub Actions, and artifact signing. | `Azure-ArtifactSigning-DevOps` |
-| **Enterprise Fabric Platform** | Implement enterprise Fabric engineering and governance patterns. | `Fabric-EnterpriseFramework` |
-| **AI Agent Infrastructure** | Implement a reusable agent platform foundation. | `AI-Agent-Infra-Blueprint` |
+| **RAG Assistant** | Build a document-grounded conversational assistant. | [RAG 101](https://github.com/Cloud2BR-TEC/ai-academy-101-rag), [RAG 102](https://github.com/Cloud2BR-TEC/ai-academy-102-rag), [RAG 103](https://github.com/Cloud2BR-TEC/ai-academy-103-rag), [RAG ChatBot Implementation](https://github.com/Cloud2BR-MSFTLearningHub/RAG-ChatBot-Implementation) |
+| **MCP Enterprise Assistant** | Build a secure, Azure-hosted MCP-enabled assistant. | [Azure MCP Blueprint](https://github.com/Cloud2BR-MSFTLearningHub/Azure-MCP-blueprint) |
+| **AI Shopping Assistant** | Demonstrate multimodal and multi-agent shopping workflows. | [Agentic DevOps AI Shopping](https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping) |
+| **Fabric AI Retail** | Deliver an AI-enabled retail analytics experience. | [Fabric AI Retail Demo](https://github.com/Cloud2BR-MSFTLearningHub/Fabric-AI-Retail-Demo) |
+| **Intelligent Invoice Processing** | Extract, validate, and route invoice information. | [Invoice Processing with Document Intelligence](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence) |
+| **Secure Software Delivery** | Demonstrate Terraform, Key Vault, OIDC, GitHub Actions, and artifact signing. | [Azure Artifact Signing DevOps](https://github.com/Cloud2BR-MSFTLearningHub/Azure-ArtifactSigning-DevOps) |
+| **Enterprise Fabric Platform** | Implement enterprise Fabric engineering and governance patterns. | [Fabric Enterprise Framework](https://github.com/Cloud2BR-MSFTLearningHub/Fabric-EnterpriseFramework) |
+| **AI Agent Infrastructure** | Implement a reusable agent platform foundation. | [AI Agent Infrastructure Blueprint](https://github.com/Cloud2BR-MSFTLearningHub/AI-Agent-Infra-Blueprint) |
 
 ## First 30 videos
 
