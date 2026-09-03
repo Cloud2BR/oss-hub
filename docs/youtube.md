@@ -156,6 +156,12 @@ Every episode should identify its audience and learning outcome, link to a
 previous concept and useful next episode, and show validation, limitations,
 security, and cost considerations.
 
+## Production kit
+
+Use the [YouTube upload production kit](youtube-production-kit.md) for the
+required metadata, scripts, accessibility checks, publishing steps, and the
+complete TEC and Microsoft Learning Hub source-to-series backlog.
+
 ## GitHub companion standard
 
 Every repository promoted by a video should include a small YouTube section in
