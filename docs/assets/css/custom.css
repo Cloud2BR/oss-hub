@@ -268,7 +268,12 @@
 }
 
 /* Distinguish the footer GitHub links by adding a short org label to each */
-.md-social { align-items: center; column-gap: 1.1rem; row-gap: 0.4rem; flex-wrap: wrap; }
+.md-social {
+  align-items: flex-start;
+  display: grid;
+  gap: 0.45rem 1rem;
+  grid-template-columns: repeat(3, max-content);
+}
 .md-social__link { align-items: center; display: inline-flex; gap: 0.4rem; }
 .md-social__link::after {
   color: #c9d3e0;
@@ -281,3 +286,6 @@
 .md-social__link[href="https://github.com/Cloud2BR-TEC"]::after { content: "TEC Hub"; }
 .md-social__link[href="https://github.com/Cloud2BR-MSFTLearningHub"]::after { content: "Cloud Sandbox"; }
 .md-social__link:hover::after { color: #ffffff; }
+@media screen and (max-width: 44rem) {
+  .md-social { grid-template-columns: 1fr; }
+}

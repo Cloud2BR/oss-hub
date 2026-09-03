@@ -56,6 +56,19 @@ Last updated: 2026-09-02
   </div>
 </div>
 
+## Video Planning
+
+<div class="guide-grid">
+  <a class="guide-card" href="youtube/">
+    <strong>Cloud2BR YouTube</strong>
+    <span>Explore the channel strategy, planned learning series, and source repositories.</span>
+  </a>
+  <a class="guide-card" href="youtube-production-kit/">
+    <strong>YouTube Production Kit</strong>
+    <span>Open the detailed upload requirements, reusable episode skeletons, and publishing checklist.</span>
+  </a>
+</div>
+
 !!! note
     Content across Cloud2BR organizations is intended for learning, demonstrations,
     and proof-of-concepts. Review and validate before using it in production.
