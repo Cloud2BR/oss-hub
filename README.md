@@ -5,7 +5,7 @@ Atlanta, USA
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [Cloud2BR - Cloud to be Ready](https://github.com/Cloud2BR)
 
-Last updated: 2026-09-02
+Last updated: 2026-09-03
 
 ----------
 
@@ -56,7 +56,7 @@ Last updated: YYYY-MM-DD
 
 <!-- START BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20views-40-limegreen" alt="Total views">
-  <p>Refresh Date: 2026-04-07</p>
+  <img src="https://img.shields.io/badge/Total%20views-0-limegreen" alt="Total views">
+  <p>Refresh Date: 2026-09-03</p>
 </div>
 <!-- END BADGE -->

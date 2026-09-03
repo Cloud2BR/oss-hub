@@ -238,6 +238,35 @@
 }
 @media screen and (max-width: 60rem) { .org-grid { grid-template-columns: 1fr; } }
 
+/* YouTube content planning flow */
+.youtube-flow {
+  align-items: stretch;
+  display: flex;
+  gap: 0.45rem;
+  margin: 1.25rem 0 2rem;
+}
+.youtube-flow__step {
+  background: #f6f9fc;
+  border: 1px solid #dbe4ee;
+  border-top: 3px solid var(--brand-blue);
+  border-radius: 8px;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 4.5rem;
+  padding: 0.7rem;
+  text-align: center;
+}
+.youtube-flow__step strong { color: var(--brand-navy); font-size: 0.82rem; }
+.youtube-flow__step span { color: #52627a; font-size: 0.68rem; line-height: 1.35; margin-top: 0.25rem; }
+.youtube-flow__connector { align-self: center; color: #7fa5c8; font-size: 1.15rem; font-weight: 700; }
+@media screen and (max-width: 60rem) {
+  .youtube-flow { align-items: center; flex-direction: column; }
+  .youtube-flow__step { max-width: 24rem; width: 100%; }
+  .youtube-flow__connector { transform: rotate(90deg); }
+}
+
 /* Distinguish the footer GitHub links by adding a short org label to each */
 .md-social { align-items: center; column-gap: 1.1rem; row-gap: 0.4rem; flex-wrap: wrap; }
 .md-social__link { align-items: center; display: inline-flex; gap: 0.4rem; }
